@@ -24,7 +24,7 @@ Built in Python to help you generate, store, and manage passwords locally — al
 - No external dependencies needed!
 
 ### Running the App
-bash
+```bash
 python main.py
 
 ---
@@ -42,3 +42,4 @@ password Manager using GUI/
 ├── pass_gen.py            # Password generator logic
 ├── logic.py               # Core logic for save/load
 ├── gif.py                 # GIF-related logic
+```
